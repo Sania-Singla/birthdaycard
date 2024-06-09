@@ -53,12 +53,12 @@ body
 }
 #gift-image5:hover
 {
-    background-image: url("/webdev/birthdaycard/cheers.gif");
+    background-image: url("cheers.gif");
 } */
 
 .gift-image
 {
-    background-image: url("/webdev/birthdaycard/gift-cover.jpg");
+    background-image: url("gift-cover.jpg");
     background-size: cover;
     height:400px;
     width:400px;
@@ -69,19 +69,19 @@ body
 }
 #gift-image1:hover
 {
-    background-image: url("/webdev/birthdaycard/happy.gif");
+    background-image: url("happy.gif");
 }
 #gift-image2:hover
 {
-    background-image: url("/webdev/birthdaycard/hot.gif");
+    background-image: url("hot.gif");
 }
 #gift-image3:hover
 {
-    background-image: url("/webdev/birthdaycard/genius.gif");
+    background-image: url("genius.gif");
 }
 #gift-image4:hover
 {
-    background-image: url("/webdev/birthdaycard/badass.gif");
+    background-image: url("badass.gif");
 }
 #gift-image5
 {
@@ -89,7 +89,7 @@ body
 }
 #gift-image5:hover
 {
-    background-image: url("/webdev/birthdaycard/cheers.gif");
+    background-image: url("cheers.gif");
 }
 
 .gift-section
